@@ -1,0 +1,6 @@
+(define (soma lista)
+    (define (soma-aux lista ac)
+      (if (empty? lista)
+         ac
+         (soma-aux (cdr lista) (+ (car lista) ac))))
+    (soma-aux lista 0))
