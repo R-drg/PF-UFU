@@ -1,7 +1,0 @@
-#lang racket
-
-(define (substitui a b lista)
-    (cond
-      [(empty? lista) empty]
-      [(=(car lista) a) (cons b ( substitui a b (cdr lista)))]
-      [else (cons (car lista) (substitui a b (cdr lista)))]))
