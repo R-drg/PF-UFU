@@ -10,14 +10,14 @@ Criar uma função para soma de listas e substituição de um número em uma lis
 
 Soma todos os algarismo de uma lista
 
-Ex: (' 1 2 3 4)
+Ex: (' 1 2 3 4)  
 Resultado: 10
 
 ## Substitui
 
 Substitui um algarismo por outro em uma lista
 
-Ex: (' 1 2 3 4) | Substituir 3 por 2
+Ex: (' 1 2 3 4) | Substituir 3 por 2  
 Resultado: (' 1 2 2 4)
 
 # Tarefa1
