@@ -22,5 +22,10 @@ Resultado: (' 1 2 2 4)
 
 # Tarefa1
 
-Experimentos do Prólogo do livro "How to Design Program, Second Edition"
+Experimentos do Prólogo do livro "How to Design Programs, Second Edition"
 https://htdp.org/2018-01-06/Book/part_prologue.html
+
+# Tarefa2
+
+Exercícios 1-32 do Capítulo 1 do Livro "How to Design Programs, Second Edition"
+https://htdp.org/2018-01-06/Book/part_one.html
